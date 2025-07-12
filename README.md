@@ -10,11 +10,6 @@ Os arquivos estão organizados da seguinte forma:
 - `ex03` - Questão 3
 - `ex04` - Questão 4
 
-Cada diretório contém:
-- O código fonte da solução
-- Possíveis arquivos de entrada/saída (quando aplicável)
-- Breve explicação da solução (no código ou em arquivo separado)
-
 ## Questões Atuais
 
 1. **Questão 1** - Implementação recursiva para identificar números divisíveis por 7
